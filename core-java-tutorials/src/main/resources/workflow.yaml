@@ -1,0 +1,33 @@
+name: top-level
+type: sequential
+tasks:
+  - name: step1
+    type: simple
+    sleep: 1000
+  - name: parallel-group
+    type: parallel
+    tasks:
+      - name: subtask1
+        type: simple
+        sleep: 6000
+      - name: sub-sequence
+        type: sequential
+        tasks:
+          - name: subtask2
+            type: simple
+            sleep: 3000
+          - name: subtask3
+            type: simple
+            sleep: 2000
+          - name: sub-parallel-group
+            type: parallel
+            tasks:
+              - name: subtask4
+                type: simple
+                sleep: 500
+              - name: subtask5
+                type: simple
+                sleep: 100
+  - name: final-step
+    type: simple
+    sleep: 500

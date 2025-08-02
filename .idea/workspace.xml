@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6f8ca72-dba7-4e1b-8958-981d5f672f73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/interview/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/interview/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Arrays/Trapping the rain water.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Bit Manipulation/Checking Whether K-th Bit is Set or Not.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Bit Manipulation/Clearing the K-th bit of a number.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Bit Manipulation/Setting the K-th bit of a number.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Bit Manipulation/Toggling Rightmost Set Bit of a number.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Bit Manipulation/Toggling the K-th bit of a number.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Dynamic Programming/Edit Distance.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Dynamic Programming/Longest Common Subsequence.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Dynamic Programming/Longest Common Substring.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Dynamic Programming/Longest Increasing Subsequence.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Dynamic Programming/Longest palindromic Subsequence.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Dynamic Programming/Matrix Chain Multiplication.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Graph Algorithms/All Pair Shortest Path Problem.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Graph Algorithms/Breadth First Search.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Graph Algorithms/Connected Components Algorithm DFS.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Graph Algorithms/Depth First Search.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Graph Algorithms/Kruskal's Minimum Spanning Tree Algorithm.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Graph Algorithms/Prims Minimum Spanning Tree Algorithm.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Graph Algorithms/Recursive Depth First Search.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Graph Algorithms/Single Shortest Path Bellman Ford Algorithm.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Graph Algorithms/Single Source Shortest Path Dijkstra Algorithm.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Graph Algorithms/Topological Sorting.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Heaps - Priority Queues/K-th Largest element of the stream.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Linked List/Reverse a linked list recursively.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Number Theory Algorithms/Divisors.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Number Theory Algorithms/Sieve of Eratosthenes.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Recursion/Partition of array on the pivot.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Recursion/Permutation of a string.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Segment Tree/Segment Tree.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Stacks - Queue/CircularQueue.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/String Algorithms/KMP.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/String Algorithms/Trie.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/C++/Union Find/Union Find.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/interview/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/interview/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/interview/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/src/com/interview/array/AdditiveNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview/src/com/interview/array/AdditiveNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview/src/com/interview/multithreaded/DependencyTaskExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview/src/com/interview/multithreaded/DependencyTaskExecutor.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/interview" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YNAbfK6IIPsldhdTP7OwAmH7cq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6f8ca72-dba7-4e1b-8958-981d5f672f73" name="Default Changelist" comment="" />
+      <created>1582772750492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582772750492</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
